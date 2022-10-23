@@ -1,4 +1,5 @@
 # 📊 Project: Simple API 2
+<img width="1746" alt="Screen Shot 2022-10-22 at 8 07 01 PM" src="https://user-images.githubusercontent.com/113155959/197366995-491c384b-0349-4691-9841-8b075ba94cd5.png">
 
 ### Goal: Display data returned from an api
 
